@@ -19,3 +19,5 @@ How to use (generally)
 2. Execute with `./w.sh` using root privilege. (by root user or via sudo)
 
 You can now connect to your Edison via SSH if you know its IP Address.  Can be found by typing ifconfig... 
+
+Thank you to @shamiao for the initial code written for a Raspberry Pi.
