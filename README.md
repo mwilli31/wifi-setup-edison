@@ -1,7 +1,7 @@
 Edison Wifi Setup Script
 ======================
 
-A minimium script to configure Wi-Fi network on Debian system for Intel Edisons. 
+A minimium script to configure a Wi-Fi network on Debian systems for Intel Edisons. 
 
 You don't need wired network connection, direct changing linux partition or even a screen. 
 
