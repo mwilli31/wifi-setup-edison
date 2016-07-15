@@ -1,0 +1,9 @@
+    # For WEP
+    #wireless-essid Emutex
+    #wireless-mode Managed
+    #wireless-key s:password
+# And the following 4 lines are for when using hostapd...
+#auto wlan0
+#iface wlan0 inet static
+#    address 192.168.42.1
+#    netmask 255.255.255.0
