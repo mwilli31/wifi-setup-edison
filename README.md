@@ -15,8 +15,8 @@ System requirements
 
 How to use (generally)
 ----------------------
-1. Edit the script file `w.sh`, enter your Wi-Fi SSID and password. 
-2. Execute with `./w.sh` using root privilege. (by root user or via sudo)
+1. Edit the script file `wifiSetup.sh`, enter your Wi-Fi SSID and password. 
+2. Execute with `./wifiSetup.sh` using root privilege. (by root user or via sudo)
 
 You can now connect to your Edison via SSH if you know its IP Address.  Can be found by typing ifconfig... 
 
