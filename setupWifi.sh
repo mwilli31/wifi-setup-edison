@@ -100,4 +100,7 @@ echo "Restarting internet with new settings"
 ifdown wlan0
 ifup wlan0
 
-echo "Setup Complete"
+echo "wifi setup complete"
+
+reboot
+
